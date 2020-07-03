@@ -27,7 +27,7 @@ export default function StockHeader() {
       "method": "GET",
       "headers": {
         "x-rapidapi-host": "apidojo-yahoo-finance-v1.p.rapidapi.com",
-        "x-rapidapi-key": "89a73a6187msh53867f06ab6e878p1904abjsn55582007e60c"
+        "x-rapidapi-key": ""
       }
     })
     .then(res => res.json())
