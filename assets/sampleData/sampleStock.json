@@ -1,0 +1,637 @@
+{
+    "defaultKeyStatistics": {
+        "annualHoldingsTurnover": {},
+        "enterpriseToRevenue": {},
+        "beta3Year": {
+            "raw": 1,
+            "fmt": "1.00"
+        },
+        "profitMargins": {},
+        "enterpriseToEbitda": {},
+        "52WeekChange": {},
+        "morningStarRiskRating": {},
+        "forwardEps": {},
+        "revenueQuarterlyGrowth": {},
+        "fundInceptionDate": {
+            "raw": 1283817600,
+            "fmt": "2010-09-07"
+        },
+        "annualReportExpenseRatio": {},
+        "totalAssets": {
+            "raw": 519162560512,
+            "fmt": "519.16B",
+            "longFmt": "519,162,560,512"
+        },
+        "bookValue": {},
+        "fundFamily": "Vanguard",
+        "lastFiscalYearEnd": {},
+        "netIncomeToCommon": {},
+        "trailingEps": {},
+        "lastDividendValue": {},
+        "SandP52WeekChange": {},
+        "priceToBook": {},
+        "nextFiscalYearEnd": {},
+        "yield": {
+            "raw": 0.0189,
+            "fmt": "1.89%"
+        },
+        "mostRecentQuarter": {},
+        "enterpriseValue": {},
+        "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+        },
+        "threeYearAverageReturn": {
+            "raw": 0.1087,
+            "fmt": "10.87%"
+        },
+        "lastSplitDate": {},
+        "lastSplitFactor": null,
+        "legalType": "Exchange Traded Fund",
+        "morningStarOverallRating": {},
+        "earningsQuarterlyGrowth": {},
+        "priceToSalesTrailing12Months": {},
+        "pegRatio": {},
+        "ytdReturn": {
+            "raw": -0.026300002,
+            "fmt": "-2.63%"
+        },
+        "forwardPE": {},
+        "maxAge": 1,
+        "lastCapGain": {},
+        "category": "Large Blend",
+        "fiveYearAverageReturn": {
+            "raw": 0.106400006,
+            "fmt": "10.64%"
+        }
+    },
+    "fundProfile": {
+        "initInvestment": {},
+        "family": "Vanguard",
+        "categoryName": "Large Blend",
+        "initAipInvestment": {},
+        "subseqIraInvestment": {},
+        "brokerages": [],
+        "managementInfo": {
+            "managerName": null,
+            "managerBio": null,
+            "startdate": {}
+        },
+        "subseqInvestment": {},
+        "legalType": "Exchange Traded Fund",
+        "styleBoxUrl": "http://us.i1.yimg.com/us.yimg.com/i/fi/3_0stylelargeeq2.gif",
+        "feesExpensesInvestment": {
+            "annualHoldingsTurnover": {
+                "raw": 0.04,
+                "fmt": "4.00%"
+            },
+            "frontEndSalesLoad": {},
+            "annualReportExpenseRatio": {
+                "raw": 0.00029999999,
+                "fmt": "0.03%"
+            },
+            "netExpRatio": {},
+            "projectionValues": {},
+            "grossExpRatio": {},
+            "deferredSalesLoad": {},
+            "totalNetAssets": {
+                "raw": 131453.7,
+                "fmt": "131,453.70"
+            },
+            "twelveBOne": {}
+        },
+        "maxAge": 1,
+        "feesExpensesInvestmentCat": {
+            "annualReportExpenseRatio": {
+                "raw": 0.0036000002,
+                "fmt": "0.36%"
+            },
+            "frontEndSalesLoad": {},
+            "deferredSalesLoad": {},
+            "twelveBOne": {},
+            "annualHoldingsTurnover": {
+                "raw": 50.76,
+                "fmt": "5,076.00%"
+            },
+            "totalNetAssets": {
+                "raw": 131453.7,
+                "fmt": "131,453.70"
+            },
+            "projectionValuesCat": {}
+        },
+        "initIraInvestment": {},
+        "subseqAipInvestment": {}
+    },
+    "financialsTemplate": {},
+    "topHoldings": {
+        "preferredPosition": {},
+        "bondPosition": {
+            "raw": 0.0001,
+            "fmt": "0.01%"
+        },
+        "convertiblePosition": {},
+        "sectorWeightings": [
+            {
+                "realestate": {
+                    "raw": 0.028399998,
+                    "fmt": "2.84%"
+                }
+            },
+            {
+                "consumer_cyclical": {
+                    "raw": 0.103,
+                    "fmt": "10.30%"
+                }
+            },
+            {
+                "basic_materials": {
+                    "raw": 0.0219,
+                    "fmt": "2.19%"
+                }
+            },
+            {
+                "consumer_defensive": {
+                    "raw": 0.0756,
+                    "fmt": "7.56%"
+                }
+            },
+            {
+                "technology": {
+                    "raw": 0.22680001,
+                    "fmt": "22.68%"
+                }
+            },
+            {
+                "communication_services": {
+                    "raw": 0.109799996,
+                    "fmt": "10.98%"
+                }
+            },
+            {
+                "financial_services": {
+                    "raw": 0.1345,
+                    "fmt": "13.45%"
+                }
+            },
+            {
+                "utilities": {
+                    "raw": 0.0324,
+                    "fmt": "3.24%"
+                }
+            },
+            {
+                "industrials": {
+                    "raw": 0.0844,
+                    "fmt": "8.44%"
+                }
+            },
+            {
+                "energy": {
+                    "raw": 0.0292,
+                    "fmt": "2.92%"
+                }
+            },
+            {
+                "healthcare": {
+                    "raw": 0.1539,
+                    "fmt": "15.39%"
+                }
+            }
+        ],
+        "holdings": [
+            {
+                "symbol": "MSFT",
+                "holdingName": "Microsoft Corp",
+                "holdingPercent": {
+                    "raw": 0.055,
+                    "fmt": "5.50%"
+                }
+            },
+            {
+                "symbol": "AAPL",
+                "holdingName": "Apple Inc",
+                "holdingPercent": {
+                    "raw": 0.052199997,
+                    "fmt": "5.22%"
+                }
+            },
+            {
+                "symbol": "AMZN",
+                "holdingName": "Amazon.com Inc",
+                "holdingPercent": {
+                    "raw": 0.04,
+                    "fmt": "4.00%"
+                }
+            },
+            {
+                "symbol": "FB",
+                "holdingName": "Facebook Inc A",
+                "holdingPercent": {
+                    "raw": 0.021300001,
+                    "fmt": "2.13%"
+                }
+            },
+            {
+                "symbol": "GOOGL",
+                "holdingName": "Alphabet Inc A",
+                "holdingPercent": {
+                    "raw": 0.016900001,
+                    "fmt": "1.69%"
+                }
+            },
+            {
+                "symbol": "GOOG",
+                "holdingName": "Alphabet Inc Class C",
+                "holdingPercent": {
+                    "raw": 0.0168,
+                    "fmt": "1.68%"
+                }
+            },
+            {
+                "symbol": "JNJ",
+                "holdingName": "Johnson & Johnson",
+                "holdingPercent": {
+                    "raw": 0.0154,
+                    "fmt": "1.54%"
+                }
+            },
+            {
+                "symbol": "BRK.B",
+                "holdingName": "Berkshire Hathaway Inc Class B",
+                "holdingPercent": {
+                    "raw": 0.0139,
+                    "fmt": "1.39%"
+                }
+            },
+            {
+                "symbol": "V",
+                "holdingName": "Visa Inc Class A",
+                "holdingPercent": {
+                    "raw": 0.012999999,
+                    "fmt": "1.30%"
+                }
+            },
+            {
+                "symbol": "PG",
+                "holdingName": "Procter & Gamble Co",
+                "holdingPercent": {
+                    "raw": 0.0114,
+                    "fmt": "1.14%"
+                }
+            }
+        ],
+        "bondHoldings": {
+            "maturity": {},
+            "duration": {},
+            "creditQuality": {},
+            "maturityCat": {},
+            "durationCat": {},
+            "creditQualityCat": {}
+        },
+        "bondRatings": [
+            {
+                "bb": {
+                    "raw": 0,
+                    "fmt": "0.00%"
+                }
+            },
+            {
+                "aa": {
+                    "raw": 0,
+                    "fmt": "0.00%"
+                }
+            },
+            {
+                "aaa": {
+                    "raw": 0,
+                    "fmt": "0.00%"
+                }
+            },
+            {
+                "a": {
+                    "raw": 0,
+                    "fmt": "0.00%"
+                }
+            },
+            {
+                "other": {
+                    "raw": 0,
+                    "fmt": "0.00%"
+                }
+            },
+            {
+                "b": {
+                    "raw": 0,
+                    "fmt": "0.00%"
+                }
+            },
+            {
+                "bbb": {
+                    "raw": 0,
+                    "fmt": "0.00%"
+                }
+            },
+            {
+                "below_b": {
+                    "raw": 0,
+                    "fmt": "0.00%"
+                }
+            },
+            {
+                "us_government": {
+                    "raw": 0,
+                    "fmt": "0.00%"
+                }
+            }
+        ],
+        "equityHoldings": {
+            "priceToCashflow": {
+                "raw": 13.64,
+                "fmt": "13.64"
+            },
+            "priceToSales": {
+                "raw": 2.08,
+                "fmt": "2.08"
+            },
+            "priceToBookCat": {},
+            "priceToEarningsCat": {},
+            "medianMarketCapCat": {},
+            "threeYearEarningsGrowthCat": {},
+            "threeYearEarningsGrowth": {},
+            "medianMarketCap": {},
+            "priceToEarnings": {
+                "raw": 22.3,
+                "fmt": "22.3"
+            },
+            "priceToBook": {
+                "raw": 3.24,
+                "fmt": "3.24"
+            },
+            "priceToSalesCat": {},
+            "priceToCashflowCat": {}
+        },
+        "otherPosition": {},
+        "maxAge": 1,
+        "cashPosition": {},
+        "stockPosition": {
+            "raw": 0.9931,
+            "fmt": "99.31%"
+        }
+    },
+    "price": {
+        "quoteSourceName": "Delayed Quote",
+        "regularMarketOpen": {
+            "raw": 288.76,
+            "fmt": "288.76"
+        },
+        "averageDailyVolume3Month": {
+            "raw": 5198438,
+            "fmt": "5.2M",
+            "longFmt": "5,198,438"
+        },
+        "exchange": "PCX",
+        "regularMarketTime": 1593720000,
+        "volume24Hr": {},
+        "regularMarketDayHigh": {
+            "raw": 290.05,
+            "fmt": "290.05"
+        },
+        "shortName": "Vanguard S&P 500 ETF",
+        "averageDailyVolume10Day": {
+            "raw": 3932262,
+            "fmt": "3.93M",
+            "longFmt": "3,932,262"
+        },
+        "longName": "Vanguard S&P 500 ETF",
+        "regularMarketChange": {
+            "raw": 1.4400024,
+            "fmt": "1.44"
+        },
+        "currencySymbol": "$",
+        "regularMarketPreviousClose": {
+            "raw": 285.37,
+            "fmt": "285.37"
+        },
+        "postMarketTime": 1593734057,
+        "preMarketPrice": {},
+        "exchangeDataDelayedBy": 0,
+        "toCurrency": null,
+        "postMarketChange": {
+            "raw": 0.769989,
+            "fmt": "0.77"
+        },
+        "postMarketPrice": {
+            "raw": 287.58,
+            "fmt": "287.58"
+        },
+        "exchangeName": "NYSEArca",
+        "preMarketChange": {},
+        "circulatingSupply": {},
+        "regularMarketDayLow": {
+            "raw": 286.18,
+            "fmt": "286.18"
+        },
+        "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+        },
+        "currency": "USD",
+        "regularMarketPrice": {
+            "raw": 286.81,
+            "fmt": "286.81"
+        },
+        "regularMarketVolume": {
+            "raw": 3639517,
+            "fmt": "3.64M",
+            "longFmt": "3,639,517.00"
+        },
+        "lastMarket": null,
+        "regularMarketSource": "DELAYED",
+        "openInterest": {},
+        "marketState": "CLOSED",
+        "underlyingSymbol": null,
+        "marketCap": {},
+        "quoteType": "ETF",
+        "volumeAllCurrencies": {},
+        "postMarketSource": "DELAYED",
+        "strikePrice": {},
+        "symbol": "VOO",
+        "postMarketChangePercent": {
+            "raw": 0.0026846658,
+            "fmt": "0.27%"
+        },
+        "preMarketSource": "FREE_REALTIME",
+        "maxAge": 1,
+        "fromCurrency": null,
+        "regularMarketChangePercent": {
+            "raw": 0.005046089,
+            "fmt": "0.50%"
+        }
+    },
+    "quoteType": {
+        "exchange": "PCX",
+        "shortName": "Vanguard S&P 500 ETF",
+        "longName": "Vanguard S&P 500 ETF",
+        "exchangeTimezoneName": "America/New_York",
+        "exchangeTimezoneShortName": "EDT",
+        "isEsgPopulated": false,
+        "gmtOffSetMilliseconds": "-14400000",
+        "quoteType": "ETF",
+        "symbol": "VOO",
+        "messageBoardId": "finmb_28117396",
+        "market": "us_market"
+    },
+    "summaryDetail": {
+        "previousClose": {
+            "raw": 285.37,
+            "fmt": "285.37"
+        },
+        "regularMarketOpen": {
+            "raw": 288.76,
+            "fmt": "288.76"
+        },
+        "twoHundredDayAverage": {
+            "raw": 276.4274,
+            "fmt": "276.43"
+        },
+        "trailingAnnualDividendYield": {},
+        "payoutRatio": {},
+        "volume24Hr": {},
+        "regularMarketDayHigh": {
+            "raw": 290.05,
+            "fmt": "290.05"
+        },
+        "navPrice": {
+            "raw": 286.7,
+            "fmt": "286.70"
+        },
+        "averageDailyVolume10Day": {
+            "raw": 3932262,
+            "fmt": "3.93M",
+            "longFmt": "3,932,262"
+        },
+        "totalAssets": {
+            "raw": 519162560512,
+            "fmt": "519.16B",
+            "longFmt": "519,162,560,512"
+        },
+        "regularMarketPreviousClose": {
+            "raw": 285.37,
+            "fmt": "285.37"
+        },
+        "fiftyDayAverage": {
+            "raw": 281.27887,
+            "fmt": "281.28"
+        },
+        "trailingAnnualDividendRate": {},
+        "open": {
+            "raw": 288.76,
+            "fmt": "288.76"
+        },
+        "toCurrency": null,
+        "averageVolume10days": {
+            "raw": 3932262,
+            "fmt": "3.93M",
+            "longFmt": "3,932,262"
+        },
+        "expireDate": {},
+        "yield": {
+            "raw": 0.0189,
+            "fmt": "1.89%"
+        },
+        "algorithm": null,
+        "dividendRate": {},
+        "exDividendDate": {},
+        "beta": {},
+        "circulatingSupply": {},
+        "startDate": {},
+        "regularMarketDayLow": {
+            "raw": 286.18,
+            "fmt": "286.18"
+        },
+        "priceHint": {
+            "raw": 2,
+            "fmt": "2",
+            "longFmt": "2"
+        },
+        "currency": "USD",
+        "regularMarketVolume": {
+            "raw": 3639517,
+            "fmt": "3.64M",
+            "longFmt": "3,639,517"
+        },
+        "lastMarket": null,
+        "maxSupply": {},
+        "openInterest": {},
+        "marketCap": {},
+        "volumeAllCurrencies": {},
+        "strikePrice": {},
+        "averageVolume": {
+            "raw": 5198438,
+            "fmt": "5.2M",
+            "longFmt": "5,198,438"
+        },
+        "priceToSalesTrailing12Months": {},
+        "dayLow": {
+            "raw": 286.18,
+            "fmt": "286.18"
+        },
+        "ask": {
+            "raw": 287.58,
+            "fmt": "287.58"
+        },
+        "ytdReturn": {},
+        "askSize": {
+            "raw": 800,
+            "fmt": "800",
+            "longFmt": "800"
+        },
+        "volume": {
+            "raw": 3639517,
+            "fmt": "3.64M",
+            "longFmt": "3,639,517"
+        },
+        "fiftyTwoWeekHigh": {
+            "raw": 311.59,
+            "fmt": "311.59"
+        },
+        "forwardPE": {},
+        "maxAge": 1,
+        "fromCurrency": null,
+        "fiveYearAvgDividendYield": {},
+        "fiftyTwoWeekLow": {
+            "raw": 200.55,
+            "fmt": "200.55"
+        },
+        "bid": {
+            "raw": 287.56,
+            "fmt": "287.56"
+        },
+        "tradeable": false,
+        "dividendYield": {},
+        "bidSize": {
+            "raw": 1100,
+            "fmt": "1.1k",
+            "longFmt": "1,100"
+        },
+        "dayHigh": {
+            "raw": 290.05,
+            "fmt": "290.05"
+        }
+    },
+    "symbol": "VOO",
+    "assetProfile": {
+        "phone": "866-499-8473",
+        "longBusinessSummary": "The investment seeks to track the performance of a benchmark index that measures the investment return of large-capitalization stocks.\n The fund employs an indexing investment approach designed to track the performance of the Standard & Poor&#39;s 500 Index, a widely recognized benchmark of U.S. stock market performance that is dominated by the stocks of large U.S. companies. The advisor attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index.",
+        "companyOfficers": [],
+        "maxAge": 86400
+    },
+    "pageViews": {
+        "shortTermTrend": "UP",
+        "midTermTrend": "UP",
+        "longTermTrend": "UP",
+        "maxAge": 1
+    }
+}
